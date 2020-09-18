@@ -14,11 +14,16 @@ On the job, you will be responsible for giving feedback to your peers. Here are 
 ### Questions you need to answer
 
 1. What's an example of an issue you've had in working with another team member? How have you addressed it?
+
+
+
 2. What are some benefits and challenges to working with the different personalities and work styles on your team? Please provide an example.
 
 ## Prompt 2 - Receiving Feedback
 
 ### Questions you need to answer
+
+I never received the feedback, but I also forgot to give feedback.
 
 1. How do your teammates tend to describe you?
 2. What's the most difficult piece of feedback you've ever received?
