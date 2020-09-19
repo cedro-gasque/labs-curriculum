@@ -15,11 +15,11 @@ On the job, you will be responsible for giving feedback to your peers. Here are 
 
 1. What's an example of an issue you've had in working with another team member? How have you addressed it?
 
-I don't know. I don't feel like I've had an issue working with anybody yet, but maybe I'm not paying attention or something.
+The only issues I remember having are ones I never effectively resolved. I'm not really sure what to put here because all the issues I remember having in a team seem to me to come from my own faults. I am hypercritical of myself and hypocritical of others.
 
 2. What are some benefits and challenges to working with the different personalities and work styles on your team? Please provide an example.
 
-Some benefits to working with different personalities are new ways to look at a problem, and difficulties are when work ethic clashes, in my experience. I struggle to be productive, so sometimes it feels hard to work with productive people.
+Some benefits to working with different personalities are new ways to look at a problem, and difficulties are when work ethic clashes, in my experience. I struggle to be productive, so sometimes it feels hard to work with productive people, simply because I compare myself to them.
 
 ## Prompt 2 - Receiving Feedback
 
@@ -27,10 +27,11 @@ Some benefits to working with different personalities are new ways to look at a 
 
 
 1. How do your teammates tend to describe you?
-I never received the feedback.
+I'd assume smart but unfocused.
 2. What's the most difficult piece of feedback you've ever received?
-
+I'm not sure, really. I don't often receive feedback that I don't expect.
 3. How have you incorporated that feedback into your personal development?
+I don't have the resources for personal development yet.
 
 ## Prompt 3 - Professional Development GitHub Profile
 
